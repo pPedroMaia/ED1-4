@@ -1,0 +1,15 @@
+E:\Trabs C#\tp01\bin\Debug\net7.0\tp01.exe
+E:\Trabs C#\tp01\bin\Debug\net7.0\tp01.deps.json
+E:\Trabs C#\tp01\bin\Debug\net7.0\tp01.runtimeconfig.json
+E:\Trabs C#\tp01\bin\Debug\net7.0\tp01.dll
+E:\Trabs C#\tp01\bin\Debug\net7.0\tp01.pdb
+E:\Trabs C#\tp01\obj\Debug\net7.0\tp01.csproj.AssemblyReference.cache
+E:\Trabs C#\tp01\obj\Debug\net7.0\tp01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabs C#\tp01\obj\Debug\net7.0\tp01.AssemblyInfoInputs.cache
+E:\Trabs C#\tp01\obj\Debug\net7.0\tp01.AssemblyInfo.cs
+E:\Trabs C#\tp01\obj\Debug\net7.0\tp01.csproj.CoreCompileInputs.cache
+E:\Trabs C#\tp01\obj\Debug\net7.0\tp01.dll
+E:\Trabs C#\tp01\obj\Debug\net7.0\refint\tp01.dll
+E:\Trabs C#\tp01\obj\Debug\net7.0\tp01.pdb
+E:\Trabs C#\tp01\obj\Debug\net7.0\tp01.genruntimeconfig.cache
+E:\Trabs C#\tp01\obj\Debug\net7.0\ref\tp01.dll
