@@ -1,0 +1,15 @@
+E:\Trabs C#\tp02\obj\Debug\net6.0\tp02.csproj.AssemblyReference.cache
+E:\Trabs C#\tp02\obj\Debug\net6.0\tp02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabs C#\tp02\obj\Debug\net6.0\tp02.AssemblyInfoInputs.cache
+E:\Trabs C#\tp02\obj\Debug\net6.0\tp02.AssemblyInfo.cs
+E:\Trabs C#\tp02\obj\Debug\net6.0\tp02.csproj.CoreCompileInputs.cache
+E:\Trabs C#\tp02\bin\Debug\net6.0\tp02.exe
+E:\Trabs C#\tp02\bin\Debug\net6.0\tp02.deps.json
+E:\Trabs C#\tp02\bin\Debug\net6.0\tp02.runtimeconfig.json
+E:\Trabs C#\tp02\bin\Debug\net6.0\tp02.dll
+E:\Trabs C#\tp02\bin\Debug\net6.0\tp02.pdb
+E:\Trabs C#\tp02\obj\Debug\net6.0\tp02.dll
+E:\Trabs C#\tp02\obj\Debug\net6.0\refint\tp02.dll
+E:\Trabs C#\tp02\obj\Debug\net6.0\tp02.pdb
+E:\Trabs C#\tp02\obj\Debug\net6.0\tp02.genruntimeconfig.cache
+E:\Trabs C#\tp02\obj\Debug\net6.0\ref\tp02.dll
