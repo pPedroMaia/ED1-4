@@ -1,0 +1,15 @@
+E:\Trabs C#\tp2108\bin\Debug\net6.0\tp2108.exe
+E:\Trabs C#\tp2108\bin\Debug\net6.0\tp2108.deps.json
+E:\Trabs C#\tp2108\bin\Debug\net6.0\tp2108.runtimeconfig.json
+E:\Trabs C#\tp2108\bin\Debug\net6.0\tp2108.dll
+E:\Trabs C#\tp2108\bin\Debug\net6.0\tp2108.pdb
+E:\Trabs C#\tp2108\obj\Debug\net6.0\tp2108.csproj.AssemblyReference.cache
+E:\Trabs C#\tp2108\obj\Debug\net6.0\tp2108.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabs C#\tp2108\obj\Debug\net6.0\tp2108.AssemblyInfoInputs.cache
+E:\Trabs C#\tp2108\obj\Debug\net6.0\tp2108.AssemblyInfo.cs
+E:\Trabs C#\tp2108\obj\Debug\net6.0\tp2108.csproj.CoreCompileInputs.cache
+E:\Trabs C#\tp2108\obj\Debug\net6.0\tp2108.dll
+E:\Trabs C#\tp2108\obj\Debug\net6.0\refint\tp2108.dll
+E:\Trabs C#\tp2108\obj\Debug\net6.0\tp2108.pdb
+E:\Trabs C#\tp2108\obj\Debug\net6.0\tp2108.genruntimeconfig.cache
+E:\Trabs C#\tp2108\obj\Debug\net6.0\ref\tp2108.dll
