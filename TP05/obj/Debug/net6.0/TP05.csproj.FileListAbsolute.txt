@@ -1,0 +1,15 @@
+E:\Trabs C#\TP05\TP05\bin\Debug\net6.0\TP05.exe
+E:\Trabs C#\TP05\TP05\bin\Debug\net6.0\TP05.deps.json
+E:\Trabs C#\TP05\TP05\bin\Debug\net6.0\TP05.runtimeconfig.json
+E:\Trabs C#\TP05\TP05\bin\Debug\net6.0\TP05.dll
+E:\Trabs C#\TP05\TP05\bin\Debug\net6.0\TP05.pdb
+E:\Trabs C#\TP05\TP05\obj\Debug\net6.0\TP05.csproj.AssemblyReference.cache
+E:\Trabs C#\TP05\TP05\obj\Debug\net6.0\TP05.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabs C#\TP05\TP05\obj\Debug\net6.0\TP05.AssemblyInfoInputs.cache
+E:\Trabs C#\TP05\TP05\obj\Debug\net6.0\TP05.AssemblyInfo.cs
+E:\Trabs C#\TP05\TP05\obj\Debug\net6.0\TP05.csproj.CoreCompileInputs.cache
+E:\Trabs C#\TP05\TP05\obj\Debug\net6.0\TP05.dll
+E:\Trabs C#\TP05\TP05\obj\Debug\net6.0\refint\TP05.dll
+E:\Trabs C#\TP05\TP05\obj\Debug\net6.0\TP05.pdb
+E:\Trabs C#\TP05\TP05\obj\Debug\net6.0\TP05.genruntimeconfig.cache
+E:\Trabs C#\TP05\TP05\obj\Debug\net6.0\ref\TP05.dll
