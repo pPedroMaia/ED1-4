@@ -1,0 +1,15 @@
+E:\Trabs C#\0910\0910\obj\Debug\net6.0\0910.csproj.AssemblyReference.cache
+E:\Trabs C#\0910\0910\obj\Debug\net6.0\0910.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabs C#\0910\0910\obj\Debug\net6.0\0910.AssemblyInfoInputs.cache
+E:\Trabs C#\0910\0910\obj\Debug\net6.0\0910.AssemblyInfo.cs
+E:\Trabs C#\0910\0910\obj\Debug\net6.0\0910.csproj.CoreCompileInputs.cache
+E:\Trabs C#\0910\0910\bin\Debug\net6.0\0910.exe
+E:\Trabs C#\0910\0910\bin\Debug\net6.0\0910.deps.json
+E:\Trabs C#\0910\0910\bin\Debug\net6.0\0910.runtimeconfig.json
+E:\Trabs C#\0910\0910\bin\Debug\net6.0\0910.dll
+E:\Trabs C#\0910\0910\bin\Debug\net6.0\0910.pdb
+E:\Trabs C#\0910\0910\obj\Debug\net6.0\0910.dll
+E:\Trabs C#\0910\0910\obj\Debug\net6.0\refint\0910.dll
+E:\Trabs C#\0910\0910\obj\Debug\net6.0\0910.pdb
+E:\Trabs C#\0910\0910\obj\Debug\net6.0\0910.genruntimeconfig.cache
+E:\Trabs C#\0910\0910\obj\Debug\net6.0\ref\0910.dll
