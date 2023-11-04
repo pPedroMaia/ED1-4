@@ -1,0 +1,16 @@
+D:\IFSP\ED2I4\TP08\bin\Debug\net5.0\TP08.exe
+D:\IFSP\ED2I4\TP08\bin\Debug\net5.0\TP08.deps.json
+D:\IFSP\ED2I4\TP08\bin\Debug\net5.0\TP08.runtimeconfig.json
+D:\IFSP\ED2I4\TP08\bin\Debug\net5.0\TP08.runtimeconfig.dev.json
+D:\IFSP\ED2I4\TP08\bin\Debug\net5.0\TP08.dll
+D:\IFSP\ED2I4\TP08\bin\Debug\net5.0\ref\TP08.dll
+D:\IFSP\ED2I4\TP08\bin\Debug\net5.0\TP08.pdb
+D:\IFSP\ED2I4\TP08\obj\Debug\net5.0\TP08.csproj.AssemblyReference.cache
+D:\IFSP\ED2I4\TP08\obj\Debug\net5.0\TP08.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFSP\ED2I4\TP08\obj\Debug\net5.0\TP08.AssemblyInfoInputs.cache
+D:\IFSP\ED2I4\TP08\obj\Debug\net5.0\TP08.AssemblyInfo.cs
+D:\IFSP\ED2I4\TP08\obj\Debug\net5.0\TP08.csproj.CoreCompileInputs.cache
+D:\IFSP\ED2I4\TP08\obj\Debug\net5.0\TP08.dll
+D:\IFSP\ED2I4\TP08\obj\Debug\net5.0\ref\TP08.dll
+D:\IFSP\ED2I4\TP08\obj\Debug\net5.0\TP08.pdb
+D:\IFSP\ED2I4\TP08\obj\Debug\net5.0\TP08.genruntimeconfig.cache
