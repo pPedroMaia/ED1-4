@@ -1,0 +1,15 @@
+E:\Trabs C#\tpfinal01\tpfinal01\bin\Debug\net6.0\tpfinal01.exe
+E:\Trabs C#\tpfinal01\tpfinal01\bin\Debug\net6.0\tpfinal01.deps.json
+E:\Trabs C#\tpfinal01\tpfinal01\bin\Debug\net6.0\tpfinal01.runtimeconfig.json
+E:\Trabs C#\tpfinal01\tpfinal01\bin\Debug\net6.0\tpfinal01.dll
+E:\Trabs C#\tpfinal01\tpfinal01\bin\Debug\net6.0\tpfinal01.pdb
+E:\Trabs C#\tpfinal01\tpfinal01\obj\Debug\net6.0\tpfinal01.csproj.AssemblyReference.cache
+E:\Trabs C#\tpfinal01\tpfinal01\obj\Debug\net6.0\tpfinal01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabs C#\tpfinal01\tpfinal01\obj\Debug\net6.0\tpfinal01.AssemblyInfoInputs.cache
+E:\Trabs C#\tpfinal01\tpfinal01\obj\Debug\net6.0\tpfinal01.AssemblyInfo.cs
+E:\Trabs C#\tpfinal01\tpfinal01\obj\Debug\net6.0\tpfinal01.csproj.CoreCompileInputs.cache
+E:\Trabs C#\tpfinal01\tpfinal01\obj\Debug\net6.0\tpfinal01.dll
+E:\Trabs C#\tpfinal01\tpfinal01\obj\Debug\net6.0\refint\tpfinal01.dll
+E:\Trabs C#\tpfinal01\tpfinal01\obj\Debug\net6.0\tpfinal01.pdb
+E:\Trabs C#\tpfinal01\tpfinal01\obj\Debug\net6.0\tpfinal01.genruntimeconfig.cache
+E:\Trabs C#\tpfinal01\tpfinal01\obj\Debug\net6.0\ref\tpfinal01.dll
